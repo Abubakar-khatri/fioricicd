@@ -3,6 +3,8 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
     <Text text="Testing fiori app for ctms"></Text>
+    <VBox >
+    <Text text="-----------Added Header-----------"></Text>
+    </VBox>
     </Page>
 </mvc:View>
-https://github.com/Abubakar-khatri/fioricicd.git
